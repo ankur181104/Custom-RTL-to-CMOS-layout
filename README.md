@@ -18,3 +18,12 @@ RTL Simulation:  [random_func_1_op.JPG](Images/random_func_1_op.JPG)
 
 CMOS Schematic:  [random_func_1_cmos_virtuoso.JPG](Images/random_func_1_cmos_virtuoso.JPG)
 
+CMOS Simulation Schematic: [random_func_1_sim_virtuoso.JPG](Images/random_func_1_sim_virtuoso.JPG)
+
+CMOS Simulation Output: [random_func_1_op_virtuoso.JPG](Images/random_func_1_op_virtuoso.JPG)
+
+Physical Layout: [random_func_1_layout_virtuoso.JPG](Images/random_func_1_layout_virtuoso.JPG)
+
+DRC : [random_func_1_DRC_virtuoso.JPG](Images/random_func_1_DRC_virtuoso.JPG)
+
+LVS : [random_func_1_LVS_virtuoso.JPG](Images/random_func_1_LVS_virtuoso.JPG)
